@@ -1,0 +1,5 @@
+# .htaccess files example:
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.+)$ index.php
